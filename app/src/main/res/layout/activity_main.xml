@@ -105,7 +105,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="P1"
                     android:text="17:30"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP2"
@@ -117,7 +117,7 @@
                     android:contentDescription="P2"
                     android:background="@drawable/botao"
                     android:text="19:30"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP3"
@@ -129,7 +129,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="P3"
                     android:text="20:00"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP4"
@@ -141,7 +141,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="P4"
                     android:text="21:00"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
             </LinearLayout>
 
             <Button
@@ -151,7 +151,7 @@
                 android:layout_height="40dp"
                 android:contentDescription="Reserva"
                 android:text="Reserve"
-                android:textSize="15dp" />
+                android:textSize="15sp" />
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
 
